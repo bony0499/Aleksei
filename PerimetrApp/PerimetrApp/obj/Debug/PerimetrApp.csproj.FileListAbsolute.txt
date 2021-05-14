@@ -1,0 +1,7 @@
+D:\C#\PerimetrApp\PerimetrApp\bin\Debug\PerimetrApp.exe.config
+D:\C#\PerimetrApp\PerimetrApp\bin\Debug\PerimetrApp.exe
+D:\C#\PerimetrApp\PerimetrApp\bin\Debug\PerimetrApp.pdb
+D:\C#\PerimetrApp\PerimetrApp\obj\Debug\PerimetrApp.csprojAssemblyReference.cache
+D:\C#\PerimetrApp\PerimetrApp\obj\Debug\PerimetrApp.csproj.CoreCompileInputs.cache
+D:\C#\PerimetrApp\PerimetrApp\obj\Debug\PerimetrApp.exe
+D:\C#\PerimetrApp\PerimetrApp\obj\Debug\PerimetrApp.pdb
