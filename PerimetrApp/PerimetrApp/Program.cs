@@ -10,7 +10,7 @@ namespace PerimetrApp
     class Program
     {
         static void Main(string[] args)
-        {
+        { //Hello
             bool cycle = true;
 
             while (cycle)
