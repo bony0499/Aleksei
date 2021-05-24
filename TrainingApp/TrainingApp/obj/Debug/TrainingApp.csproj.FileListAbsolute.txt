@@ -1,0 +1,7 @@
+D:\C#\TrainingApp\TrainingApp\bin\Debug\TrainingApp.exe.config
+D:\C#\TrainingApp\TrainingApp\bin\Debug\TrainingApp.exe
+D:\C#\TrainingApp\TrainingApp\bin\Debug\TrainingApp.pdb
+D:\C#\TrainingApp\TrainingApp\obj\Debug\TrainingApp.csprojAssemblyReference.cache
+D:\C#\TrainingApp\TrainingApp\obj\Debug\TrainingApp.csproj.CoreCompileInputs.cache
+D:\C#\TrainingApp\TrainingApp\obj\Debug\TrainingApp.exe
+D:\C#\TrainingApp\TrainingApp\obj\Debug\TrainingApp.pdb
